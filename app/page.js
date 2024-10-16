@@ -1,18 +1,14 @@
-// app/page.js
-import Head from 'next/head';
+
 import './styles/xlo.css'; 
 
 const Page = () => {
   return (
     <>
-      <Head>
-        <title>File Conversion Services</title>
-        <meta name="description" content="Convert your files easily and efficiently with our file conversion services." />
-      </Head>
+    
       <main className="container">
-        <h1 className="title">Welcome to Our File Conversion Service1  test</h1>
-        <img  src='https://hichamchlghami.github.io/test3/sitfile.svg'  className='sitfilesvg'/>
-        <img  src='https://hichamchlghami.github.io/test3/sitfile_logo1.png'  className='sitfilesvg'/>
+        <h1 className="title">Welcome to Our File Conversion Service23</h1>
+        <img  src='http://hichamchlghami.github.io/test3/sitfile.svg'  className='sitfilesvg'/>
+        <img  src='http://hichamchlghami.github.io/test3/sitfile_logo1.png'  className='sitfilesvg'/>
 
         <p className="description">
           Our platform provides a seamless way to convert various file formats, including documents, images, and videos. 
