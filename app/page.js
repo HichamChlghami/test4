@@ -1,6 +1,6 @@
 // app/page.js
 import Head from 'next/head';
-import '/globals.css'; 
+import './globals.css'; 
 
 const Page = () => {
   return (
